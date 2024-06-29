@@ -26,12 +26,12 @@ This information helps users make informed decisions about their travel plans an
 
 # UI Screenshots
 
-1. Home Page
+1. Home Page : The home page of an e-ticketing railway system provides users with a user-friendly interface to search for train routes, check availability, and book tickets online efficiently.
 
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/e0c558ab-49d5-4307-95f6-f01b767b6278)
 
 
-2. Booking tickets
+2. Booking tickets: Efficiently book and manage railway tickets through a user-friendly e-ticketing system.
 
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/15b21ec0-f7f0-4e2e-91d6-254104a8f586)
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/ade1a18c-2ac9-4eb7-9b24-d7d27c6d1bce)
@@ -42,7 +42,8 @@ This information helps users make informed decisions about their travel plans an
 
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/0406f29c-9c81-4be9-b738-28eb90fac567)
 
-4. Contact Us
+
+4. Contact Us: Connect with customer support for your railway e-ticketing needs through our streamlined Contact Us interface
 
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/bd9f6e73-3984-42e4-a8cd-1bab856c0519)
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/c6c3b833-b895-4555-8114-dde68022dd1b)
@@ -51,7 +52,7 @@ This information helps users make informed decisions about their travel plans an
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/c9670a6e-4253-4dd0-bec0-817e50427917)
 
 
-5. Weather Forecast
+5. Weather Forecast: Integrate real-time weather forecasts into the e-ticketing railway system for improved travel planning and customer experience.
 
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/e7c43b31-a401-4841-87c1-87f77b7d469f)
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/abc2984d-1f0c-486b-89cf-977b44f0a094)
@@ -61,7 +62,7 @@ This information helps users make informed decisions about their travel plans an
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/72d93de4-70eb-4a19-9712-a8d48b0ce7df)
 
 
-6. Nearest Spot Recommendations to your travel destintations
+6. Nearest Spot Recommendations to your travel destintations: Explore nearby attractions and local recommendations tailored to your travel destinations with our e-ticketing railway system.
 
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/91688ce1-99ee-47bd-abdf-6adf9ebd79d1)
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/b6e72cc9-16d7-4664-b67e-68688daa61fe)
@@ -69,12 +70,18 @@ This information helps users make informed decisions about their travel plans an
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/f57b71c8-23cb-4c22-b527-68ed527b3737)
 
 
-7. Top most visited places in India
+7. Top most visited places in India: Recommending prime destinations ensures a smooth travel experience and aids in informed decision-making for trip planning.
 
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/076ebd6b-f643-436b-9806-3562a633ebec)
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/91c7b1fe-9e4b-4483-9876-99b5d783cec1)
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/45355975-8a91-4fdf-a636-c066d5ef9e3e)
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/fc7f655f-40b2-4e3f-8fff-a35fc971138d)
 
+8. php intgeration
+
+I tried using php as backend but was unable to do so
+
+
+![php_error](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/fbac8078-abc7-43a8-a3cd-18eda87af7df)
 
 
