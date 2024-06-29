@@ -79,7 +79,7 @@ This information helps users make informed decisions about their travel plans an
 
 8. php intgeration
 
-I tried using php as backend but was unable to do so
+I tried using php as backend for database but was unable to do so because of the server errors, my xampp crashed as well.
 
 
 ![php_error](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/fbac8078-abc7-43a8-a3cd-18eda87af7df)
