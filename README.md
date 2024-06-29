@@ -24,5 +24,7 @@ This information helps users make informed decisions about their travel plans an
 2. CSS
 3. JavaScript
 
-UI Screenshots
+# UI Screenshots
+
+![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/e0c558ab-49d5-4307-95f6-f01b767b6278)
 
