@@ -77,11 +77,5 @@ This information helps users make informed decisions about their travel plans an
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/45355975-8a91-4fdf-a636-c066d5ef9e3e)
 ![image](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/fc7f655f-40b2-4e3f-8fff-a35fc971138d)
 
-8. php intgeration
-
-I tried using php as backend for database but was unable to do so because of the server errors, my xampp crashed as well.
-
-
-![php_error](https://github.com/rovin201/Railway-E-ticketing-system/assets/96007395/fbac8078-abc7-43a8-a3cd-18eda87af7df)
 
 
